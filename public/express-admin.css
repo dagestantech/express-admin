@@ -29,7 +29,7 @@
 /*fixed header fix*/
 #content { padding-top: 70px; }
 /*login header*/
-#login .label-default { color: #f8f8f2; }
+/*#login*/.label-default { color: #f8f8f2; }
 
 /*mainview*/
 .x-table tbody td .glyphicon-plus { font-size: 8px; position: relative; top: -1px; }
@@ -63,7 +63,7 @@
 /*fix for all fields*/
 .x-table .form-group { margin-bottom: 0; }
 /*inline table headers*/
-.x-table .label-default { color: #f8f8f2; }
+/*.x-table*/.label-default { color: #f8f8f2; }
 /*checkbox remove inline*/
 .x-table .head td { padding-top: 0; padding-bottom: 0; }
 .x-table .head label { float: right; margin-bottom: 0; }
